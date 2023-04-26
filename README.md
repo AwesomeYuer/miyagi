@@ -1,3 +1,5 @@
+# Awesome Yuer
+
 # Project Miyagi - Financial coach
 
 >  “start with the customer experience and work backwards for the technology” - Steve Jobs
@@ -5,6 +7,7 @@
 >  "Systems with AI will replace systems without AI"
 
 <p align="center"><img src="ancillary/images/1.png" width=20% height=20% /></p>
+
 
 Project Miyagi serves as the foundation for an [envisioning workshop](https://github.com/Azure-Samples/intelligent-app-workshop) that reimagines the design, development, and deployment of intelligent applications. It demonstrates that integrating intelligence transcends a simple chat interface and permeates every aspect of the end-user experience, utilizing enriched data to generate personalized interactions and effectively address individual needs. Through a comprehensive exploration of a financial coaching use case, Miyagi offers hands-on experience with cutting-edge programming paradigms that harness the power of foundation models in every workflow. Additionally, it introduces traditional software engineers to emerging design patterns in prompt engineering (chain-of-thought, few-shot, in-context), vectorization for long-term memory, and the affordances provided by LLMs.
 
