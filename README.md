@@ -1,5 +1,9 @@
 # Awesome Yuer
 
+```sh
+git clone --recurse-submodules https://github.com/AwesomeYuer/miyagi.git
+``` 
+
 # Project Miyagi - Financial coach
 
 >  “start with the customer experience and work backwards for the technology” - Steve Jobs
